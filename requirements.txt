@@ -1,0 +1,12 @@
+six
+tqdm==4.30.*
+gunicorn == 19.9.0
+https://download.pytorch.org/whl/cpu/torch-1.0.1.post2-cp37-cp37m-linux_x86_64.whl
+future
+configargparse
+torchtext==0.4.0
+numpy==1.19.4
+flask==1.1.2
+waitress==1.4.4
+flask_wtf
+flask_pagedown
